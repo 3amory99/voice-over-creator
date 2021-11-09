@@ -1,5 +1,7 @@
 from langdetect import detect
 
+
+
 L = ["Geeksforgeeks is a computer science portal for geeks",
      "Geeksforgeeks - это компьютерный портал для гиков",
      "Geeksforgeeks es un portal informático para geeks",
