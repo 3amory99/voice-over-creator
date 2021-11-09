@@ -1,0 +1,10 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"b46c29d0-e660-4be9-8758-f54dfe71eb97","Name":"Microsoft Server Speech Text to Speech Voice (ar-EG, ShakirNeural)","VoiceType":"StandardVoice"},{"Id":"e0638b39-fbd2-4497-a482-e2f65759412a","Name":"Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)","VoiceType":"StandardVoice"}]}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"en-US":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" version="1.0" xml:lang="en-US">
+    <voice name="Microsoft Server Speech Text to Speech Voice (ar-EG, ShakirNeural)">
+        سوف أحكي لكم بعض النصائح والجمل الرائعه في اللغة العربية
+        من يحاول أن يُمسك الشّمعة من شعلتها يحرق يده. قد تنسى من شاركك الضحك، لكن لن تنسى من شاركك البكاء. الحياة مليئة
+        بالحجارة فلا تتعثّر بها، بل اجمعها وابنِ بها سُلَّماً به نحو النجاح.
+        لا تنسى الأشتراك بالقناة ومشاركة المحتوى الخاص بنا، شكرا لكم
+    </voice>
+</speak>
